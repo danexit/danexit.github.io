@@ -1,65 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="20cm" height="13cm" viewBox="46 140 395 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g>
-    <polygon style="fill: #ffffff" points="336.733,141.543 407.653,209.948 336.733,278.353 265.813,209.948 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="336.733,141.543 407.653,209.948 336.733,278.353 265.813,209.948 "/>
-    <text font-size="14.1109" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="336.733" y="196.59">
-      <tspan x="336.733" y="196.59">Hvad </tspan>
-      <tspan x="336.733" y="214.229">stemte </tspan>
-      <tspan x="336.733" y="231.868">I?</tspan>
+<svg width="27cm" height="17cm" viewBox="15 152 527 323" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="16.5328" y="157" width="259.2" height="97" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="146.133" y="193.4">
+        <tspan x="146.133" y="193.4">Du keder dig og iler straks til </tspan>
+        <tspan x="146.133" y="209.4">danexit-siden, men det første du </tspan>
+        <tspan x="146.133" y="225.4">ser er bare kedeligt</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="146.133" y="205.5">
+      <tspan x="146.133" y="205.5"></tspan>
     </text>
-  </g>
-  <g>
-    <rect style="fill: #ffffff" x="47.925" y="167" width="170.75" height="82"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="47.925" y="167" width="170.75" height="82"/>
-    <text font-size="14.1109" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="133.3" y="203.461">
-      <tspan x="133.3" y="203.461">Stem om fuldgyldigt </tspan>
-      <tspan x="133.3" y="221.1">medlemsskab af  EU</tspan>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="146.133" y="205.5">
+      <tspan x="146.133" y="205.5"></tspan>
     </text>
-  </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="336.733" y="209.948">
-    <tspan x="336.733" y="209.948"></tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="336.733" y="209.948">
-    <tspan x="336.733" y="209.948"></tspan>
-  </text>
-  <g>
-    <rect style="fill: #ffffff" x="47.75" y="313.3" width="168.25" height="82"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="47.75" y="313.3" width="168.25" height="82"/>
-    <text font-size="14.1109" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="131.875" y="349.761">
-      <tspan x="131.875" y="349.761">Der er ingen vej</tspan>
-      <tspan x="131.875" y="367.4">tilbage - se brexit</tspan>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="146.133" y="205.5">
+      <tspan x="146.133" y="205.5"></tspan>
     </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="146.133" y="205.5">
+      <tspan x="146.133" y="205.5"></tspan>
+    </text>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="145.984,277.804 237.587,336.699 145.984,395.594 54.381,336.699 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="145.984" y="324.599">
+        <tspan x="145.984" y="324.599">Du har en </tspan>
+        <tspan x="145.984" y="340.599">smart </tspan>
+        <tspan x="145.984" y="356.599">telefon?</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="145.984" y="336.698">
+      <tspan x="145.984" y="336.698"></tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="146.133,254 146.133,260 145.984,260 145.984,268.068 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="145.984,275.568 140.984,265.568 145.984,268.068 150.984,265.568 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="335.076" y="200" width="169.85" height="54" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420.001" y="222.9">
+        <tspan x="420.001" y="222.9">Du springer ud </tspan>
+        <tspan x="420.001" y="238.9">til højre</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="58.7828" y="420" width="174.7" height="54" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="146.133" y="450.9">
+        <tspan x="146.133" y="450.9">Du scroller forbi</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="146.133" y="447">
+      <tspan x="146.133" y="447"></tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="145.984,395.594 145.984,400 146.133,400 146.133,409.26 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="146.133,416.76 141.133,406.76 146.133,409.26 151.133,406.76 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="237.588,336.698 237.588,340 420.001,340 420.001,264.724 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="420.001,257.224 425.001,267.224 420.001,264.724 415.001,267.224 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="146.133" y="205.5">
+      <tspan x="146.133" y="205.5"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="160" y="400">
+      <tspan x="160" y="400">ja</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="240" y="360">
+      <tspan x="240" y="360">nej</tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="420,200 420,160 530.264,160 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="537.764,160 527.764,165 530.264,160 527.764,155 "/>
+    </g>
   </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="131.875" y="354.3">
-    <tspan x="131.875" y="354.3"></tspan>
-  </text>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="218.675,208 218.675,209.948 256.077,209.948 "/>
-    <polygon style="fill: #000000" points="263.577,209.948 253.577,214.948 256.077,209.948 253.577,204.948 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="263.577,209.948 253.577,214.948 256.077,209.948 253.577,204.948 "/>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="407.653,209.948 440,209.948 440,354.3 225.736,354.3 "/>
-    <polygon style="fill: #000000" points="218.236,354.3 228.236,349.3 225.736,354.3 228.236,359.3 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="218.236,354.3 228.236,349.3 225.736,354.3 228.236,359.3 "/>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="336.733,278.353 336.733,294 133.3,294 133.3,258.736 "/>
-    <polygon style="fill: #000000" points="133.3,251.236 138.3,261.236 133.3,258.736 128.3,261.236 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="133.3,251.236 138.3,261.236 133.3,258.736 128.3,261.236 "/>
-  </g>
-  <text font-size="15.8042" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="414" y="192">
-    <tspan x="414" y="192">ja</tspan>
-  </text>
-  <text font-size="15.8042" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="359" y="290">
-    <tspan x="359" y="290">nej</tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="370" y="285">
-    <tspan x="370" y="285"></tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="133.3" y="208">
-    <tspan x="133.3" y="208"></tspan>
-  </text>
 </svg>

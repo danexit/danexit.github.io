@@ -1,107 +1,98 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
 <svg width="25cm" height="21cm" viewBox="143 45 495 410" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g>
-    <polygon style="fill: #ffffff" points="238.324,51.0262 332.337,109.894 238.324,168.763 144.312,109.894 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="238.324,51.0262 332.337,109.894 238.324,168.763 144.312,109.894 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="238.324" y="105.794">
-      <tspan x="238.324" y="105.794">Er der fodbold </tspan>
-      <tspan x="238.324" y="121.794">i fjernsynet</tspan>
+  <g id="Background">
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="238.324,51.0262 332.337,109.894 238.324,168.763 144.312,109.894 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="238.324" y="105.794">
+        <tspan x="238.324" y="105.794">Er der fodbold </tspan>
+        <tspan x="238.324" y="121.794">i fjernsynet</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="170.225" y="271" width="135.55" height="38" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="238" y="293.9">
+        <tspan x="238" y="293.9">Tweet om fodbold</tspan>
+      </text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="380.16,289.799 342.968,289.799 342.968,290 315.511,290 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="308.011,290 318.011,285 315.511,290 318.011,295 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="253" y="181">
+      <tspan x="253" y="181">ja</tspan>
+    </text>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="495.564,46.9478 610.968,110.447 495.564,173.946 380.16,110.447 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="98.3467">
+        <tspan x="495.564" y="98.3467">Findes der en </tspan>
+        <tspan x="495.564" y="114.347">anti-Brexit-</tspan>
+        <tspan x="495.564" y="130.347">karikatur</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="110.447">
+      <tspan x="495.564" y="110.447"></tspan>
+    </text>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="495.564,226.3 610.968,289.799 495.564,353.298 380.16,289.799 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="277.699">
+        <tspan x="495.564" y="277.699">Findes der en </tspan>
+        <tspan x="495.564" y="293.699">anti-Trump-</tspan>
+        <tspan x="495.564" y="309.699">karikatur</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="405.564" y="416" width="180" height="38" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="438.9">
+        <tspan x="495.564" y="438.9">Afsted med den!</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="435">
+      <tspan x="495.564" y="435"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="289.798">
+      <tspan x="495.564" y="289.798"></tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="332.337,109.894 356.248,109.894 356.248,110.447 370.424,110.447 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="377.924,110.447 367.924,115.447 370.424,110.447 367.924,105.447 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="495.564,173.946 495.564,200.123 495.564,200.123 495.564,216.564 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="495.564,224.064 490.564,214.064 495.564,216.564 500.564,214.064 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="238.324,168.763 238.324,219.881 238,219.881 238,261.264 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="238,268.764 233,258.764 238,261.264 243,258.764 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="495.564,353.298 495.564,384.649 495.564,384.649 495.564,406.264 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="495.564,413.764 490.564,403.764 495.564,406.264 500.564,403.764 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="610.968,110.447 636.682,110.447 636.682,435 595.3,435 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="587.8,435 597.8,430 595.3,435 597.8,440 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="509.974" y="183.2">
+      <tspan x="509.974" y="183.2">nej</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="509.05" y="371.2">
+      <tspan x="509.05" y="371.2">ja</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="289.798">
+      <tspan x="495.564" y="289.798"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="331.1" y="97.2">
+      <tspan x="331.1" y="97.2">nej</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="370.968" y="271.422">
+      <tspan x="370.968" y="271.422">nej</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="616.736" y="93.9364">
+      <tspan x="616.736" y="93.9364">ja</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="110.447">
+      <tspan x="495.564" y="110.447"></tspan>
     </text>
   </g>
-  <g>
-    <rect style="fill: #ffffff" x="170.225" y="271" width="135.55" height="38"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="170.225" y="271" width="135.55" height="38"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="238" y="293.9">
-      <tspan x="238" y="293.9">Tweet om fodbold</tspan>
-    </text>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="380.16,289.799 339.437,289.799 339.437,290 315.511,290 "/>
-    <polygon style="fill: #000000" points="308.011,290 318.011,285 315.511,290 318.011,295 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="308.011,290 318.011,285 315.511,290 318.011,295 "/>
-  </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="253" y="181">
-    <tspan x="253" y="181">ja</tspan>
-  </text>
-  <g>
-    <polygon style="fill: #ffffff" points="495.564,46.9478 610.968,110.447 495.564,173.946 380.16,110.447 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.564,46.9478 610.968,110.447 495.564,173.946 380.16,110.447 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="98.3467">
-      <tspan x="495.564" y="98.3467">Findes der en </tspan>
-      <tspan x="495.564" y="114.347">anti-Brexit-</tspan>
-      <tspan x="495.564" y="130.347">karikatur</tspan>
-    </text>
-  </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="110.447">
-    <tspan x="495.564" y="110.447"></tspan>
-  </text>
-  <g>
-    <polygon style="fill: #ffffff" points="495.564,226.3 610.968,289.799 495.564,353.298 380.16,289.799 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.564,226.3 610.968,289.799 495.564,353.298 380.16,289.799 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="277.699">
-      <tspan x="495.564" y="277.699">Findes der en </tspan>
-      <tspan x="495.564" y="293.699">anti-Trump-</tspan>
-      <tspan x="495.564" y="309.699">karikatur</tspan>
-    </text>
-  </g>
-  <g>
-    <rect style="fill: #ffffff" x="405.564" y="416" width="180" height="38"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="405.564" y="416" width="180" height="38"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="438.9">
-      <tspan x="495.564" y="438.9">Afsted med den!</tspan>
-    </text>
-  </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="435">
-    <tspan x="495.564" y="435"></tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="289.799">
-    <tspan x="495.564" y="289.799"></tspan>
-  </text>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="332.337,109.894 354.495,109.894 354.495,110.447 370.424,110.447 "/>
-    <polygon style="fill: #000000" points="377.924,110.447 367.924,115.447 370.424,110.447 367.924,105.447 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="377.924,110.447 367.924,115.447 370.424,110.447 367.924,105.447 "/>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.564,173.946 495.564,201.65 495.564,201.65 495.564,216.564 "/>
-    <polygon style="fill: #000000" points="495.564,224.064 490.564,214.064 495.564,216.564 500.564,214.064 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.564,224.064 490.564,214.064 495.564,216.564 500.564,214.064 "/>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="238.324,168.763 238.324,192 238,192 238,261.264 "/>
-    <polygon style="fill: #000000" points="238,268.764 233,258.764 238,261.264 243,258.764 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="238,268.764 233,258.764 238,261.264 243,258.764 "/>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.564,353.298 495.564,373 495.564,373 495.564,406.264 "/>
-    <polygon style="fill: #000000" points="495.564,413.764 490.564,403.764 495.564,406.264 500.564,403.764 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.564,413.764 490.564,403.764 495.564,406.264 500.564,403.764 "/>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="610.968,110.447 636.682,110.447 636.682,435 595.3,435 "/>
-    <polygon style="fill: #000000" points="587.8,435 597.8,430 595.3,435 597.8,440 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="587.8,435 597.8,430 595.3,435 597.8,440 "/>
-  </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="509.975" y="183.2">
-    <tspan x="509.975" y="183.2">nej</tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="509.05" y="371.2">
-    <tspan x="509.05" y="371.2">ja</tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="289.799">
-    <tspan x="495.564" y="289.799"></tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="331.1" y="97.2">
-    <tspan x="331.1" y="97.2">nej</tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="370.969" y="271.422">
-    <tspan x="370.969" y="271.422">nej</tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="616.737" y="93.9364">
-    <tspan x="616.737" y="93.9364">ja</tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495.564" y="110.447">
-    <tspan x="495.564" y="110.447"></tspan>
-  </text>
 </svg>

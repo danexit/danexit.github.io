@@ -1,77 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
 <svg width="21cm" height="17cm" viewBox="2966 -894 416 337" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g>
-    <rect style="fill: #ffffff" x="2969.43" y="-892.75" width="179.9" height="86"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2969.43" y="-892.75" width="179.9" height="86"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3059.38" y="-869.85">
-      <tspan x="3059.38" y="-869.85">Kære EU.</tspan>
-      <tspan x="3059.38" y="-853.85">Vi er ikke med i </tspan>
-      <tspan x="3059.38" y="-837.85">forsvarssamarbejdet</tspan>
-      <tspan x="3059.38" y="-821.85">vi har en undtagelse.</tspan>
+  <g id="Background">
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="2969.42" y="-892.75" width="179.9" height="86" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3059.37" y="-869.85">
+        <tspan x="3059.37" y="-869.85">Kære EU.</tspan>
+        <tspan x="3059.37" y="-853.85">Vi er ikke med i </tspan>
+        <tspan x="3059.37" y="-837.85">forsvarssamarbejdet</tspan>
+        <tspan x="3059.37" y="-821.85">vi har en undtagelse.</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="3063.89,-772.856 3159.99,-732.303 3063.89,-691.749 2967.78,-732.303 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3063.89" y="-728.403">
+        <tspan x="3063.89" y="-728.403">Hvad stemte i?</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="3205.18" y="-884.45" width="176" height="70" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3293.18" y="-861.55">
+        <tspan x="3293.18" y="-861.55">I er ikke færdige endnu.</tspan>
+        <tspan x="3293.18" y="-845.55">I skal stemme om</tspan>
+        <tspan x="3293.18" y="-829.55">fuldt medlemsskab igen</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3063.9" y="-732.304">
+      <tspan x="3063.9" y="-732.304"></tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="3149.32,-849.75 3177.25,-849.75 3177.25,-849.45 3195.44,-849.45 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="3202.94,-849.45 3192.94,-844.45 3195.44,-849.45 3192.94,-854.45 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="2971.94" y="-643.75" width="184.35" height="86" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3064.11" y="-612.85">
+        <tspan x="3064.11" y="-612.85">I er helt færdige nu</tspan>
+        <tspan x="3064.11" y="-596.85">I får aldrig lov at </tspan>
+        <tspan x="3064.11" y="-580.85">stemme igen</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3293.18" y="-849.45">
+      <tspan x="3293.18" y="-849.45"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3293.18" y="-849.45">
+      <tspan x="3293.18" y="-849.45"></tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="3249.18,-814.45 3249.18,-793.653 3063.89,-793.653 3063.89,-782.592 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="3063.89,-775.092 3058.89,-785.092 3063.89,-782.592 3068.89,-785.092 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="3160,-732.304 3160,-732.75 3293.18,-732.75 3293.18,-804.714 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="3293.18,-812.214 3298.18,-802.214 3293.18,-804.714 3288.18,-802.214 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="3063.89,-691.749 3063.89,-667.75 3064.11,-667.75 3064.11,-653.486 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="3064.11,-645.986 3059.11,-655.986 3064.11,-653.486 3069.11,-655.986 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3059.38" y="-849.75">
+      <tspan x="3059.38" y="-849.75"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3165" y="-743.75">
+      <tspan x="3165" y="-743.75">nej</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3080.1" y="-656.55">
+      <tspan x="3080.1" y="-656.55">ja</tspan>
     </text>
   </g>
-  <g>
-    <polygon style="fill: #ffffff" points="3063.89,-772.857 3160,-732.303 3063.89,-691.75 2967.79,-732.303 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3063.89,-772.857 3160,-732.303 3063.89,-691.75 2967.79,-732.303 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3063.89" y="-728.403">
-      <tspan x="3063.89" y="-728.403">Hvad stemte i?</tspan>
-    </text>
-  </g>
-  <g>
-    <rect style="fill: #ffffff" x="3205.18" y="-884.45" width="176" height="70"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3205.18" y="-884.45" width="176" height="70"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3293.18" y="-861.55">
-      <tspan x="3293.18" y="-861.55">I er ikke færdige endnu.</tspan>
-      <tspan x="3293.18" y="-845.55">I skal stemme om</tspan>
-      <tspan x="3293.18" y="-829.55">fuldt medlemsskab igen</tspan>
-    </text>
-  </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3063.89" y="-732.303">
-    <tspan x="3063.89" y="-732.303"></tspan>
-  </text>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3149.32,-849.75 3177.25,-849.75 3177.25,-849.45 3195.44,-849.45 "/>
-    <polygon style="fill: #000000" points="3202.94,-849.45 3192.94,-844.45 3195.44,-849.45 3192.94,-854.45 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3202.94,-849.45 3192.94,-844.45 3195.44,-849.45 3192.94,-854.45 "/>
-  </g>
-  <g>
-    <rect style="fill: #ffffff" x="2971.95" y="-643.75" width="184.35" height="86"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2971.95" y="-643.75" width="184.35" height="86"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3064.12" y="-612.85">
-      <tspan x="3064.12" y="-612.85">I er helt færdige nu</tspan>
-      <tspan x="3064.12" y="-596.85">I får aldrig lov at </tspan>
-      <tspan x="3064.12" y="-580.85">stemme igen</tspan>
-    </text>
-  </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3293.18" y="-849.45">
-    <tspan x="3293.18" y="-849.45"></tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3293.18" y="-849.45">
-    <tspan x="3293.18" y="-849.45"></tspan>
-  </text>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3249.18,-814.45 3249.18,-793.653 3063.89,-793.653 3063.89,-782.593 "/>
-    <polygon style="fill: #000000" points="3063.89,-775.093 3058.89,-785.093 3063.89,-782.593 3068.89,-785.093 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3063.89,-775.093 3058.89,-785.093 3063.89,-782.593 3068.89,-785.093 "/>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3160,-732.303 3160,-732.75 3293.18,-732.75 3293.18,-804.714 "/>
-    <polygon style="fill: #000000" points="3293.18,-812.214 3298.18,-802.214 3293.18,-804.714 3288.18,-802.214 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3293.18,-812.214 3298.18,-802.214 3293.18,-804.714 3288.18,-802.214 "/>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3063.89,-691.75 3063.89,-670.75 3064.12,-670.75 3064.12,-653.486 "/>
-    <polygon style="fill: #000000" points="3064.12,-645.986 3059.12,-655.986 3064.12,-653.486 3069.12,-655.986 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3064.12,-645.986 3059.12,-655.986 3064.12,-653.486 3069.12,-655.986 "/>
-  </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3059.38" y="-849.75">
-    <tspan x="3059.38" y="-849.75"></tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3165" y="-743.75">
-    <tspan x="3165" y="-743.75">nej</tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="3080.1" y="-656.55">
-    <tspan x="3080.1" y="-656.55">ja</tspan>
-  </text>
 </svg>

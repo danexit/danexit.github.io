@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
 <svg width="17cm" height="5cm" viewBox="141 50 322 88" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="328.875" y="113">
-    <tspan x="328.875" y="113"></tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="328.875" y="113">
-    <tspan x="328.875" y="113"></tspan>
-  </text>
-  <g>
-    <rect style="fill: #ffffff" x="142.425" y="51.5" width="319.2" height="86"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="142.425" y="51.5" width="319.2" height="86"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="302.025" y="74.4">
-      <tspan x="302.025" y="74.4">Europabevægelsen?</tspan>
-      <tspan x="302.025" y="90.4">Den mest moderne bevægelse i Europa er</tspan>
-      <tspan x="302.025" y="106.4"> Ud.</tspan>
-      <tspan x="302.025" y="122.4">Ud af EU</tspan>
+  <g id="Background">
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="328.876" y="113">
+      <tspan x="328.876" y="113"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="328.876" y="113">
+      <tspan x="328.876" y="113"></tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="142.425" y="51.5" width="319.2" height="86" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="302.025" y="74.4">
+        <tspan x="302.025" y="74.4">Europabevægelsen?</tspan>
+        <tspan x="302.025" y="90.4">Den mest moderne bevægelse i Europa er</tspan>
+        <tspan xml:space="preserve" x="302.025" y="106.4"> Ud.</tspan>
+        <tspan x="302.025" y="122.4">Ud af EU</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="302.026" y="94.5">
+      <tspan x="302.026" y="94.5"></tspan>
     </text>
   </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="302.025" y="94.5">
-    <tspan x="302.025" y="94.5"></tspan>
-  </text>
 </svg>

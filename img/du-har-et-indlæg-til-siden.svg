@@ -4,33 +4,33 @@
   <g id="Background">
     <g>
       <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="40.6" y="70" width="184.8" height="38" rx="0" ry="0"/>
-      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="133" y="92.9">
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="133" y="92.9">
         <tspan x="133" y="92.9">Du har et indlæg til siden</tspan>
       </text>
     </g>
     <g>
-      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="371,133.468 454.063,175 371,216.532 287.937,175 "/>
-      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="371" y="170.9">
-        <tspan x="371" y="170.9">Er du på</tspan>
-        <tspan x="371" y="186.9">tumblr?</tspan>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="370.999,133.468 454.062,175 370.999,216.532 287.936,175 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="370.999" y="170.9">
+        <tspan x="370.999" y="170.9">Er du på</tspan>
+        <tspan x="370.999" y="186.9">tumblr?</tspan>
       </text>
     </g>
     <g>
       <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="46.125" y="223" width="191.75" height="38" rx="0" ry="0"/>
-      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="142" y="245.9">
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="142" y="245.9">
         <tspan x="142" y="245.9">Opret dig gratis på tumblr</tspan>
       </text>
     </g>
-    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="142" y="242">
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="142" y="242">
       <tspan x="142" y="242"></tspan>
     </text>
     <g>
       <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="44.275" y="316" width="420.45" height="53" rx="0" ry="0"/>
-      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="254.5" y="346.4">
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="254.5" y="346.4">
         <tspan x="254.5" y="346.4">Klik på linket nedenfor: https://danexitblog.tumblr.com/submit</tspan>
       </text>
     </g>
-    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="254.5" y="342.5">
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="254.5" y="342.5">
       <tspan x="254.5" y="342.5"></tspan>
     </text>
     <g>
@@ -38,15 +38,15 @@
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="371,131.232 366,121.232 371,123.732 376,121.232 "/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="287.937,175 94.0625,175 94.0625,213.264 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="287.936,175 94.0625,175 94.0625,213.264 "/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="94.0625,220.764 89.0625,210.764 94.0625,213.264 99.0625,210.764 "/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="94.0625,261 94.0625,288.5 149.387,288.5 149.387,306.264 "/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="149.387,313.764 144.387,303.764 149.387,306.264 154.387,303.764 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="94.0625,261 94.0625,288.5 149.388,288.5 149.388,306.264 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="149.388,313.764 144.388,303.764 149.388,306.264 154.388,303.764 "/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="371,216.532 371,265.762 254.5,265.762 254.5,305.257 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="370.999,216.532 370.999,265.762 254.5,265.762 254.5,305.257 "/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="254.5,312.757 249.5,302.757 254.5,305.257 259.5,302.757 "/>
     </g>
   </g>
