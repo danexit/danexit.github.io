@@ -7,9 +7,9 @@
   "author_url": "https://danexit.github.io/",
   "provider_name": "danexit",
   "description": "Behandling af personoplysninger om\u2026etnisk oprindelse\u2026er forbudt.",
-  "thumbnail_url": "https://danexit.github.io/img/gdpr-er-ogsa-mundkurv-pa-pressen.svg",
+  "thumbnail_url": "https://danexit.github.io/img/gdpr-er-ogsa-mundkurv-pa-pressen.png",
   "thumbnail_width": 600,
   "thumbnail_height": 400,
-  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/img/gdpr-er-ogsa-mundkurv-pa-pressen.svg\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
+  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/img/gdpr-er-ogsa-mundkurv-pa-pressen.png\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
   "cache_age": 600
 }
