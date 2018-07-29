@@ -1,15 +1,15 @@
 {
-  "url": "https://danexit.github.io/danexit/article/censurmaskiner/",
+  "url": "https://danexit.github.io/article/censurmaskiner/",
   "type": "photo",
   "version": "1.0",
   "title": "Censurmaskiner",
   "author": "Dan Exit",
-  "author_url": "https://danexit.github.io/danexit/",
+  "author_url": "https://danexit.github.io/",
   "provider_name": "danexit",
   "description": "\u201cMy name is Julia, I\u2019m the Pirate in the European Parliament.\u201d, skriver Julie Reda. Hun er med i Europas Frie Alliance i EU-parlamentet.",
-  "thumbnail_url": "https://danexit.github.io/danexit/img/censurmaskiner.svg",
+  "thumbnail_url": "https://danexit.github.io/img/censurmaskiner.svg",
   "thumbnail_width": 600,
   "thumbnail_height": 400,
-  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/danexit/img/censurmaskiner.svg\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
+  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/img/censurmaskiner.svg\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
   "cache_age": 600
 }

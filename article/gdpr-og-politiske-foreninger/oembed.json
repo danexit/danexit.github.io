@@ -1,15 +1,15 @@
 {
-  "url": "https://danexit.github.io/danexit/article/gdpr-og-politiske-foreninger/",
+  "url": "https://danexit.github.io/article/gdpr-og-politiske-foreninger/",
   "type": "photo",
   "version": "1.0",
   "title": "GDPR og politiske foreninger",
   "author": "Dan Exit",
-  "author_url": "https://danexit.github.io/danexit/",
+  "author_url": "https://danexit.github.io/",
   "provider_name": "danexit",
   "description": "I artikel 9 st\u00e5r der at man slet ikke m\u00e5 opbevare oplysninger om race, etnisk oprindelse, politisk/sexuel/religi\u00f8s overbevisning.",
-  "thumbnail_url": "https://danexit.github.io/danexit/img/gdpr-og-politiske-foreninger.svg",
+  "thumbnail_url": "https://danexit.github.io/img/gdpr-og-politiske-foreninger.svg",
   "thumbnail_width": 600,
   "thumbnail_height": 400,
-  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/danexit/img/gdpr-og-politiske-foreninger.svg\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
+  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/img/gdpr-og-politiske-foreninger.svg\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
   "cache_age": 600
 }

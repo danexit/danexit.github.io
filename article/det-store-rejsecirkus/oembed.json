@@ -1,15 +1,15 @@
 {
-  "url": "https://danexit.github.io/danexit/article/det-store-rejsecirkus/",
+  "url": "https://danexit.github.io/article/det-store-rejsecirkus/",
   "type": "photo",
   "version": "1.0",
   "title": "Det store rejsecirkus",
   "author": "Dan Exit",
-  "author_url": "https://danexit.github.io/danexit/",
+  "author_url": "https://danexit.github.io/",
   "provider_name": "danexit",
   "description": "EU Bruger \u00e5rligt t\u00e6t p\u00e5 1000000000 kr p\u00e5 at flytte imellem Strasbourg og Br\u00fcssel. Ja, der st\u00e5r En Milliard. Tallene kommer herfra:",
-  "thumbnail_url": "https://danexit.github.io/danexit/img/det-store-rejsecirkus.svg",
+  "thumbnail_url": "https://danexit.github.io/img/det-store-rejsecirkus.svg",
   "thumbnail_width": 600,
   "thumbnail_height": 400,
-  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/danexit/img/det-store-rejsecirkus.svg\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
+  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/img/det-store-rejsecirkus.svg\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
   "cache_age": 600
 }

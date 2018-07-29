@@ -8,7 +8,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "https://danexit.github.io/danexit/",
+    "start_url": "https://danexit.github.io/",
     "display": "standalone",
     "theme_color": "#f14e32",
     "background_color": "#ffffff"
