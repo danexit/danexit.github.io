@@ -1,0 +1,15 @@
+{
+  "url": "https://danexit.github.io/danexit/article/gdpr-laes-den-selv/",
+  "type": "photo",
+  "version": "1.0",
+  "title": "GDPR, l\u00e6s den selv",
+  "author": "Dan Exit",
+  "author_url": "https://danexit.github.io/danexit/",
+  "provider_name": "danexit",
+  "description": "https://eur-lex.europa.eu/legal-content/DA/ALL/?uri=celex:32016R0679",
+  "thumbnail_url": "https://danexit.github.io/danexit/img/gdpr-laes-den-selv.svg",
+  "thumbnail_width": 600,
+  "thumbnail_height": 400,
+  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/danexit/img/gdpr-laes-den-selv.svg\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
+  "cache_age": 600
+}

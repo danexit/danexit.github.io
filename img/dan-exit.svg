@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="20cm" height="13cm" viewBox="46 140 395 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #ffffff" points="336.733,141.543 407.653,209.948 336.733,278.353 265.813,209.948 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="336.733,141.543 407.653,209.948 336.733,278.353 265.813,209.948 "/>
+    <text font-size="14.1109" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="336.733" y="196.59">
+      <tspan x="336.733" y="196.59">Hvad </tspan>
+      <tspan x="336.733" y="214.229">stemte </tspan>
+      <tspan x="336.733" y="231.868">I?</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="47.925" y="167" width="170.75" height="82"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="47.925" y="167" width="170.75" height="82"/>
+    <text font-size="14.1109" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="133.3" y="203.461">
+      <tspan x="133.3" y="203.461">Stem om fuldgyldigt </tspan>
+      <tspan x="133.3" y="221.1">medlemsskab af  EU</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="336.733" y="209.948">
+    <tspan x="336.733" y="209.948"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="336.733" y="209.948">
+    <tspan x="336.733" y="209.948"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="47.75" y="313.3" width="168.25" height="82"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="47.75" y="313.3" width="168.25" height="82"/>
+    <text font-size="14.1109" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="131.875" y="349.761">
+      <tspan x="131.875" y="349.761">Der er ingen vej</tspan>
+      <tspan x="131.875" y="367.4">tilbage - se brexit</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="131.875" y="354.3">
+    <tspan x="131.875" y="354.3"></tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="218.675,208 218.675,209.948 256.077,209.948 "/>
+    <polygon style="fill: #000000" points="263.577,209.948 253.577,214.948 256.077,209.948 253.577,204.948 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="263.577,209.948 253.577,214.948 256.077,209.948 253.577,204.948 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="407.653,209.948 440,209.948 440,354.3 225.736,354.3 "/>
+    <polygon style="fill: #000000" points="218.236,354.3 228.236,349.3 225.736,354.3 228.236,359.3 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="218.236,354.3 228.236,349.3 225.736,354.3 228.236,359.3 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="336.733,278.353 336.733,294 133.3,294 133.3,258.736 "/>
+    <polygon style="fill: #000000" points="133.3,251.236 138.3,261.236 133.3,258.736 128.3,261.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="133.3,251.236 138.3,261.236 133.3,258.736 128.3,261.236 "/>
+  </g>
+  <text font-size="15.8042" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="414" y="192">
+    <tspan x="414" y="192">ja</tspan>
+  </text>
+  <text font-size="15.8042" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="359" y="290">
+    <tspan x="359" y="290">nej</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="370" y="285">
+    <tspan x="370" y="285"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="133.3" y="208">
+    <tspan x="133.3" y="208"></tspan>
+  </text>
+</svg>

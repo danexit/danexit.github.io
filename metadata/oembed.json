@@ -1,0 +1,15 @@
+{
+  "url": "",
+  "type": "photo",
+  "version": "1.0",
+  "title": "Dan Exit, den flabede EU-modstand",
+  "author": "Dan Exit",
+  "author_url": "https://danexit.github.io/danexit/",
+  "provider_name": "danexit",
+  "description": "Kan man stole p\u00e5 EU's ydre gr\u00e6nser, n\u00e5r organisationen ikke engang kan beslutte sig for placeringen af hovedkontoret?",
+  "thumbnail_url": "img/oembed.png",
+  "thumbnail_width": 600,
+  "thumbnail_height": 400,
+  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"img/oembed.png\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
+  "cache_age": 600
+}

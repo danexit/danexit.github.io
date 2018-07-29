@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="23cm" height="14cm" viewBox="29 58 454 262" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="30.075" y="66" width="197.85" height="85"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="30.075" y="66" width="197.85" height="85"/>
+    <text font-size="15.172" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="129" y="103.585">
+      <tspan x="129" y="103.585">Goddag, vi er fra afrika</tspan>
+      <tspan x="129" y="122.55">Vi skal ind i Europa</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="380,59.3742 481.264,109.478 380,159.582 278.736,109.478 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="380,59.3742 481.264,109.478 380,159.582 278.736,109.478 "/>
+    <text font-size="15.172" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="380" y="104.563">
+      <tspan x="380" y="104.563">Har I pas </tspan>
+      <tspan x="380" y="123.528">og visum?</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="131.7" y="221.069" width="232.3" height="97.8613"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="131.7" y="221.069" width="232.3" height="97.8613"/>
+    <text font-size="15.172" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="247.85" y="255.602">
+      <tspan x="247.85" y="255.602">Det er også ligemeget. </tspan>
+      <tspan x="247.85" y="274.567">ifølge Marrakech-aftalen</tspan>
+      <tspan x="247.85" y="293.533">Kom bare ind!</tspan>
+    </text>
+  </g>
+  <text font-size="15.172" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="380" y="109.478">
+    <tspan x="380" y="109.478"></tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="227.925,108.5 260.456,108.5 260.456,109.478 269,109.478 "/>
+    <polygon style="fill: #000000" points="276.5,109.478 266.5,114.478 269,109.478 266.5,104.478 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="276.5,109.478 266.5,114.478 269,109.478 266.5,104.478 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="380,159.582 380,178 189.775,178 189.775,211.333 "/>
+    <polygon style="fill: #000000" points="189.775,218.833 184.775,208.833 189.775,211.333 194.775,208.833 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="189.775,218.833 184.775,208.833 189.775,211.333 194.775,208.833 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="481.264,109.478 481.264,203 305.925,203 305.925,211.333 "/>
+    <polygon style="fill: #000000" points="305.925,218.833 300.925,208.833 305.925,211.333 310.925,208.833 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="305.925,218.833 300.925,208.833 305.925,211.333 310.925,208.833 "/>
+  </g>
+  <text font-size="15.172" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="392" y="173">
+    <tspan x="392" y="173">ja</tspan>
+  </text>
+  <text font-size="15.172" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="455.5" y="139.3">
+    <tspan x="455.5" y="139.3">nej</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="247.85" y="270">
+    <tspan x="247.85" y="270"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="247.85" y="270">
+    <tspan x="247.85" y="270"></tspan>
+  </text>
+</svg>

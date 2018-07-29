@@ -1,0 +1,15 @@
+{
+  "url": "https://danexit.github.io/danexit/article/luxleaks/",
+  "type": "photo",
+  "version": "1.0",
+  "title": "LuxLeaks",
+  "author": "Dan Exit",
+  "author_url": "https://danexit.github.io/danexit/",
+  "provider_name": "danexit",
+  "description": "Der blev skatteunddraget i stor stil for firmaer som Pepsi, Ikea, Accenture, Burberry, Procter & Gamble, Heinz, JP Morgan, FedEx, Amazon and Deutsche Bank i Luxembourg, mens Jean-Claude Juncker var premierminister.",
+  "thumbnail_url": "https://danexit.github.io/danexit/img/luxleaks.svg",
+  "thumbnail_width": 600,
+  "thumbnail_height": 400,
+  "html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\">\n<iframe \n    src=\"https://danexit.github.io/danexit/img/luxleaks.svg\" \n    style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" \n    allowfullscreen \n    scrolling=\"no\">\n</iframe>\n</div>\"\n",
+  "cache_age": 600
+}
